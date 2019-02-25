@@ -15,3 +15,10 @@ rm - removing files (-r is a flag and stands for recursive/ -rf)
 . where you are
 ~ take you back to your home directory
 File that starts with .() are hidden by using flag -a you can check all and print it to the terminal
+
+More commands
+
+cat <filename> - shows whatever is in the file
+less <filename> - shows whatever is in the file in a brief version (for files with thousands of lines is highly recommended)
+nano <filename> - use to edit a file in the terminal itself
+
