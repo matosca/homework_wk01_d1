@@ -1,7 +1,7 @@
 Git & GitHub
 
 Further Homework
-gitignore - specifies intentionally untracked files to ignore
+gitignore - specifies intentionally untracked files to ignore.
 
 Further reading
 https://www.atlassian.com/git/tutorials/saving-changes/gitignore
