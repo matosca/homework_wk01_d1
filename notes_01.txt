@@ -10,6 +10,7 @@ cd ../ - change from directory and find a path
 touch - creates a new file (what.txt)
 mv - rename files of a directory/to move files to different forlders
 cp - copy files keeping the original files
+rmdir - removing directories
 rm - removing files (-r is a flag and stands for recursive/ -rf)
 .. leave the directory
 . where you are
@@ -21,4 +22,8 @@ More commands
 cat <filename> - shows whatever is in the file
 less <filename> - shows whatever is in the file in a brief version (for files with thousands of lines is highly recommended)
 nano <filename> - use to edit a file in the terminal itself
+clear - use to clear the terminal window of the previous commands
+head - writes the first ten lines of a file to the screen
+tail - writes the last ten lines of a file to the screen
+grep - searches files for specified words or patterns
 
