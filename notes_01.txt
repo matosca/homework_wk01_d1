@@ -1,0 +1,17 @@
+Week 1 - Day 1
+
+Unix/Command Line
+Terminal Concepts
+pwd - print working directory
+ls - list files on the directory
+mkdir - make a new directory
+cd - change directory (moving around the "Finder")
+cd ../ - change from directory and find a path
+touch - creates a new file (what.txt)
+mv - rename files of a directory/to move files to different forlders
+cp - copy files keeping the original files
+rm - removing files (-r is a flag and stands for recursive/ -rf)
+.. leave the directory
+. where you are
+~ take you back to your home directory
+File that starts with .() are hidden by using flag -a you can check all and print it to the terminal
