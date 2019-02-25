@@ -1,0 +1,17 @@
+Git & GitHub
+Code Versioning
+Repository
+Git Workflow
+
+Local - version of the repository in home (e.g. matora)
+Remote - version to a remote server
+
+Git Concepts
+git init - initializee an empty repository
+git add - stage the file (git add . stages all files in the repository)
+git commit -m "message" - saved/commit changes in to the master branch
+git push - send versions of source code to a server
+git pull - get versions from server to local
+git clone - to make a copy of a repository from server to local
+git log - shows a history of the commits done
+
